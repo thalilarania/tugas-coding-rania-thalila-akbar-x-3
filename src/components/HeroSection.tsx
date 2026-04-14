@@ -96,7 +96,7 @@ export default function HeroSection() {
             <h1 className="text-6xl md:text-8xl font-serif text-white tracking-tight leading-[0.8]">
               RANIA <br /> 
               <span className="relative inline-block mt-3">
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#fbbf24] via-white to-[#f472b6]">Thalita</span>
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#fbbf24] via-white to-[#f472b6]">Thalila</span>
                 <motion.div 
                   initial={{ width: 0 }}
                   animate={{ width: "100%" }}
